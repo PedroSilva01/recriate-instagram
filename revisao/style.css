@@ -58,6 +58,13 @@ body{
     min-height: 19rem;
 }
 
+.link-button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .instagram-logo {
     height: 3rem;
 }
